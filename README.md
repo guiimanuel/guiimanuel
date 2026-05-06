@@ -2,7 +2,7 @@
 
 <br>
 
-**`Desenvolvedor FullStack em Formacao`**
+**`Desenvolvedor FullStack em Formação`**
 
 Me chamo Guilherme Manuel, tenho 17 anos e sou natural de Pernambuco. Atualmente estou cursando o ensino médio no IFPE, integrado ao curso técnico de Desenvolvimento de Sistemas. Sou apaixonado por tecnologia desde a minha infancia, o que me fez levar ao conhecimento da programacao. Com isso, desde o meu primeiro contato, tenho o desejo de seguir na área aprendendo cada vez mais e desenvolvendo projetos, com o objetivo de me tornar um Dev FullStack. Contando também com uma grande sede de resolver problemas reais através da minhas habilidades.
 
