@@ -90,7 +90,6 @@ Tenho 17 anos, sou de Pernambuco e estudo **Análise e Desenvolvimento de Sistem
     <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=guiimanuel&amp;repo=MiniSystem_CRUD&amp;bg_color=0D1A1A&amp;title_color=71B280&amp;text_color=FFFFFF&amp;icon_color=71B280&amp;hide_border=true" alt="Mini System CRUD" />
   </a>
 </div>
----
 
 ## Contribuições
 
