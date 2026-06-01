@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=36&text=DESENVOLVEDOR%20FULL%20STACK%20EM%20FORMA%C3%87%C3%83O&fontColor=71B280&fontSize=15&fontAlignY=50" alt="Desenvolvedor Full Stack em Formação" />
 
-Tenho 17 anos, sou de Pernambuco e estudo **Análise e Desenvolvimento de Sistemas** no **IFPE - Campus Jaboatão dos Guararapes**, integrado ao ensino médio. Apaixonado por tecnologia desde a infância, tenho o objetivo de me tornar um desenvolvedor FullStack — resolvendo problemas reais através do código e construindo projetos que fazem a diferença.
+Tenho 17 anos, sou de Pernambuco e estudo **Análise e Desenvolvimento de Sistemas** no **IFPE - Campus Jaboatão dos Guararapes**, integrado ao ensino médio. Apaixonado por tecnologia desde a infância, tenho o objetivo de me tornar um desenvolvedor Full Stack — resolvendo problemas reais através do código e construindo projetos que fazem a diferença.
 
 [![Gmail](https://img.shields.io/badge/Gmail-0d1a1a?style=for-the-badge&logo=gmail&logoColor=71B280)](mailto:guilhermemanuel445@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1a1a?style=for-the-badge&logo=instagram&logoColor=71B280)](https://www.instagram.com/guiimanuel_/)
@@ -21,7 +21,7 @@ Tenho 17 anos, sou de Pernambuco e estudo **Análise e Desenvolvimento de Sistem
 
 - Estudando **ADS** no **IFPE** (Integrado ao Ensino Médio)
 - Recife, Pernambuco — Brasil
-- Foco atual em **React Native**, **Node.js** e desenvolvimento **FullStack**
+- Foco atual em **React Native**, **Node.js** e desenvolvimento **Full Stack**
 - Sempre aprendendo e construindo novos projetos
 - Objetivo: me tornar um desenvolvedor que resolve problemas reais com tecnologia
 
@@ -90,6 +90,8 @@ Tenho 17 anos, sou de Pernambuco e estudo **Análise e Desenvolvimento de Sistem
     <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=guiimanuel&amp;repo=MiniSystem_CRUD&amp;bg_color=0D1A1A&amp;title_color=71B280&amp;text_color=FFFFFF&amp;icon_color=71B280&amp;hide_border=true" alt="Mini System CRUD" />
   </a>
 </div>
+
+---
 
 ## Contribuições
 
