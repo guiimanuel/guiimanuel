@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=71B280&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme+Manuel" alt="Olá, eu sou o Guilherme Manuel" />
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=36&text=DESENVOLVEDOR%20FULL%20STACK%20EM%20FORMA%C3%87%C3%83O&fontColor=71B280&fontSize=15&fontAlignY=50" alt="Desenvolvedor Full Stack em Formação" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=36&text=DESENVOLVEDOR%20FULL%20STACK%20EM%20FORMA%C3%87%C3%83O&fontColor=71B280&fontSize=15&fontAlignY=50" Desenvolvedor Mobile & Full Stack em formação | React Native • Expo • JavaScript • Node.js | ADS — IFPE" />
 
 Tenho 17 anos, sou de Pernambuco e estudo **Análise e Desenvolvimento de Sistemas** no **IFPE - Campus Jaboatão dos Guararapes**, integrado ao ensino médio. Apaixonado por tecnologia desde a infância, tenho o objetivo de me tornar um desenvolvedor Full Stack — resolvendo problemas reais através do código e construindo projetos que fazem a diferença.
 
